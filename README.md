@@ -19,7 +19,7 @@ As Chief Growth Officer, I led UAF Photo Lab from the ground up—building the c
 BigCommerce | HubSpot | Figma | Adobe Creative Suite | Slack | Meta Business Suite | Canva
 ---
 
-## 📸 Project Artifacts (Optional Uploads):
+## 📸 Project Artifacts:
 - Product pricing PDF   
 - Screenshots or video of BigCommerce storefront  
 - Booth mockup / photos from trade shows  
