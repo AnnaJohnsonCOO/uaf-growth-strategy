@@ -23,5 +23,4 @@ BigCommerce | HubSpot | Figma | Adobe Creative Suite | Slack | Meta Business Sui
 - Product pricing PDF   
 - Screenshots or video of BigCommerce storefront  
 - Booth mockup / photos from trade shows  
-- Sample social media content or influencer campaigns  
 
