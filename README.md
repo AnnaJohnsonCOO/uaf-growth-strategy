@@ -20,7 +20,7 @@ BigCommerce | HubSpot | Figma | Adobe Creative Suite | Slack | Meta Business Sui
 ---
 
 ## 📸 Project Artifacts:
-- Product pricing PDF UAF-2020-New-Price-Final.pdf
+- Product pricing PDF 
 - Screenshots or video of BigCommerce storefront  
 - Booth mockup / photos from trade shows  
 
